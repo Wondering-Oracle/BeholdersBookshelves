@@ -6,9 +6,20 @@
     "###"
   ],
   "key": {
-    "#": {
-      "tag": "minecraft:quartz_block"
-    },
+    "#": [
+      {
+    	"item": "minecraft:quartz_block"
+      },
+      {
+    	"item": "minecraft:quartz_pillar"
+      },
+      {
+    	"item": "minecraft:chiseled_quartz_block"
+      },
+      {
+    	"item": "minecraft:quartz_bricks"
+      }
+    ],
     "X": {
       "item": "minecraft:book"
     }

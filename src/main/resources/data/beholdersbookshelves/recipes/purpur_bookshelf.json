@@ -6,9 +6,14 @@
     "###"
   ],
   "key": {
-    "#": {
-      "tag": "minecraft:purpur_block"
-    },
+    "#": [
+      {
+    	"item": "minecraft:purpur_block"
+      },
+      {
+    	"item": "minecraft:purpur_pillar"
+      }
+    ],
     "X": {
       "item": "minecraft:book"
     }
