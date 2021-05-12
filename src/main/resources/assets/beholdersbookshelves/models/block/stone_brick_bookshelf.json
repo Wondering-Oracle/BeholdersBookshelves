@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/chiseled_stone_bricks",
+    "side": "beholdersbookshelves:block/stone_brick_bookshelf"
+  }
+}
