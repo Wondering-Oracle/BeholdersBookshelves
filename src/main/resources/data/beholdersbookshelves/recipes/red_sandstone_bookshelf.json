@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "XXX",
+    "###"
+  ],
+  "key": {
+    "#": [
+      {
+    	"item": "minecraft:cut_red_sandstone"
+      },
+      {
+    	"item": "minecraft:chiseled_red_sandstone"
+      }
+    ],
+    "X": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "beholdersbookshelves:red_sandstone_bookshelf"
+  }
+}

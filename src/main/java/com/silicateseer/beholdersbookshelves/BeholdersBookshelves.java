@@ -17,6 +17,8 @@ public class BeholdersBookshelves implements ModInitializer {
 	public static final Block STONE_BRICK_BOOKSHELF = register("stone_brick_bookshelf", new Block(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
 	public static final Block QUARTZ_BOOKSHELF = register("quartz_bookshelf", new Block(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
 	public static final Block PURPUR_BOOKSHELF = register("purpur_bookshelf", new Block(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
+	public static final Block SANDSTONE_BOOKSHELF = register("sandstone_bookshelf", new Block(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
+	public static final Block RED_SANDSTONE_BOOKSHELF = register("red_sandstone_bookshelf", new Block(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
 	
 	@Override
 	public void onInitialize() {

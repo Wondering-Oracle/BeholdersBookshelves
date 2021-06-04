@@ -1,8 +1,11 @@
 {
 	"replace": false,
 	"values": [
+		"minecraft:bookshelf",
 		"beholdersbookshelves:stone_brick_bookshelf",
 		"beholdersbookshelves:quartz_bookshelf",
-		"beholdersbookshelves:purpur_bookshelf"
+		"beholdersbookshelves:purpur_bookshelf",
+		"beholdersbookshelves:sandstone_bookshelf",
+		"beholdersbookshelves:red_sandstone_bookshelf"
 	]
 }

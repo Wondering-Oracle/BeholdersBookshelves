@@ -4,9 +4,8 @@
   "package": "com.silicateseer.beholdersbookshelves.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-  ],
-  "client": [
-    "ExampleMixin"
+    "EnchantmentScreenHandlerMixin_BB",
+    "EnchantingTableBlockMixin_BB"
   ],
   "injectors": {
     "defaultRequire": 1
