@@ -20,11 +20,16 @@ public class BeholdersBookshelves implements ModInitializer {
 	public static final Block SANDSTONE_BOOKSHELF = register("sandstone_bookshelf", new Block(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
 	public static final Block RED_SANDSTONE_BOOKSHELF = register("red_sandstone_bookshelf", new Block(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
 	
-	public static final Block STONE_BRICK_SWITCH_BOOKSHELF = register("stone_brick_switch_bookshelf", new BBStoneSwitchBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
-	public static final Block QUARTZ_SWITCH_BOOKSHELF = register("quartz_switch_bookshelf", new BBStoneSwitchBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
-	public static final Block PURPUR_SWITCH_BOOKSHELF = register("purpur_switch_bookshelf", new BBStoneSwitchBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
-	public static final Block SANDSTONE_SWITCH_BOOKSHELF = register("sandstone_switch_bookshelf", new BBStoneSwitchBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
-	public static final Block RED_SANDSTONE_SWITCH_BOOKSHELF = register("red_sandstone_switch_bookshelf", new BBStoneSwitchBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
+	public static final Block OAK_BOOKSHELF = register("oak_bookshelf", new Block(FabricBlockSettings.of(Material.WOOD).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
+	public static final Block BIRCH_BOOKSHELF = register("birch_bookshelf", new Block(FabricBlockSettings.of(Material.WOOD).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
+	public static final Block SPRUCE_BOOKSHELF = register("spruce_bookshelf", new Block(FabricBlockSettings.of(Material.WOOD).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
+	public static final Block JUNGLE_BOOKSHELF = register("jungle_bookshelf", new Block(FabricBlockSettings.of(Material.WOOD).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
+	
+	public static final Block STONE_BRICK_SWITCH_BOOKSHELF = register("stone_brick_switch_bookshelf", new BBStoneSwitchBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.REDSTONE);
+	public static final Block QUARTZ_SWITCH_BOOKSHELF = register("quartz_switch_bookshelf", new BBStoneSwitchBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.REDSTONE);
+	public static final Block PURPUR_SWITCH_BOOKSHELF = register("purpur_switch_bookshelf", new BBStoneSwitchBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.REDSTONE);
+	public static final Block SANDSTONE_SWITCH_BOOKSHELF = register("sandstone_switch_bookshelf", new BBStoneSwitchBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.REDSTONE);
+	public static final Block RED_SANDSTONE_SWITCH_BOOKSHELF = register("red_sandstone_switch_bookshelf", new BBStoneSwitchBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.REDSTONE);
 	
 	//public static final Block TEST_SWITCH = register("test_switch", new BBStoneSwitchBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(1.5F, 6.0F)), ItemGroup.BUILDING_BLOCKS);
 	
