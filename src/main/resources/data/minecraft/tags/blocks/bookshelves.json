@@ -6,6 +6,12 @@
 		"beholdersbookshelves:quartz_bookshelf",
 		"beholdersbookshelves:purpur_bookshelf",
 		"beholdersbookshelves:sandstone_bookshelf",
-		"beholdersbookshelves:red_sandstone_bookshelf"
+		"beholdersbookshelves:red_sandstone_bookshelf",
+		
+		"beholdersbookshelves:stone_brick_switch_bookshelf",
+		"beholdersbookshelves:quartz_switch_bookshelf",
+		"beholdersbookshelves:purpur_switch_bookshelf",
+		"beholdersbookshelves:sandstone_switch_bookshelf",
+		"beholdersbookshelves:red_sandstone_switch_bookshelf"
 	]
 }

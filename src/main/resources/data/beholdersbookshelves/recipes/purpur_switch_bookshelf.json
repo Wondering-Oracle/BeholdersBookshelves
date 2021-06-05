@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "beholdersbookshelves:purpur_bookshelf"
+    },
+    {
+      "item": "minecraft:redstone_dust"
+    }
+  ],
+  "result": {
+    "item": "beholdersbookshelves:purpur_switch_bookshelf"
+  }
+}
