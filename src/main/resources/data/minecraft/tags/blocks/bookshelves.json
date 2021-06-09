@@ -12,6 +12,15 @@
 		"beholdersbookshelves:quartz_switch_bookshelf",
 		"beholdersbookshelves:purpur_switch_bookshelf",
 		"beholdersbookshelves:sandstone_switch_bookshelf",
-		"beholdersbookshelves:red_sandstone_switch_bookshelf"
+		"beholdersbookshelves:red_sandstone_switch_bookshelf",
+		
+		"beholdersbookshelves:oak_bookshelf",
+		"beholdersbookshelves:birch_bookshelf",
+		"beholdersbookshelves:spruce_bookshelf",
+		"beholdersbookshelves:jungle_bookshelf",
+		"beholdersbookshelves:dark_oak_bookshelf",
+		"beholdersbookshelves:acacia_bookshelf",
+		"beholdersbookshelves:crimson_bookshelf",
+		"beholdersbookshelves:warped_bookshelf"
 	]
 }

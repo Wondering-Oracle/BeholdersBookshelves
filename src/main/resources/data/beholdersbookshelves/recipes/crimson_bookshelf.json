@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "XXX",
+    "###"
+  ],
+  "key": {
+    "#": [
+      {
+    	"item": "minecraft:crimson_planks"
+      }
+    ],
+    "X": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "beholdersbookshelves:crimson_bookshelf"
+  }
+}
